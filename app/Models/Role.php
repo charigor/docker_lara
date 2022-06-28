@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\Model;
 class Role extends Model
 {
     use HasFactory;
-    protected $table = 'Roles';
+    protected $table = 'roles';
     /**
      * The attributes that are mass assignable.
      *
