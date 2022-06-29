@@ -18,7 +18,6 @@
     <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div>It's a dashboard8!</div>
-            <div>sdfsdfs</div>
             <div class="table-responsive">
                 <table class="table table-hover table-dark">
                     <thead>
