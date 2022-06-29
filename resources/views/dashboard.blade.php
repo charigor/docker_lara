@@ -17,7 +17,7 @@
     </div>
     <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-            <div>It's a dashboard3!</div>
+            <div>It's a dashboard7!</div>
             <div class="table-responsive">
                 <table class="table table-hover table-dark">
                     <thead>
