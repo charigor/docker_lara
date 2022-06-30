@@ -16,7 +16,7 @@ class DashboardController extends Controller
     public function index(){
         $users = User::with('roles')->limit(10)->get();
 
-        return view('dashboard',compact('users'));
+        return view('admin',compact('users'));
     }
 
     /**
